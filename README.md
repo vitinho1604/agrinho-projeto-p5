@@ -1,6 +1,7 @@
 # agrinho-projeto-p5
 OBJETIVO
-O objetivo é coletar 40 frutas (maçãs) usando uma cesta antes que o tempo acabe.
+
+o objetivo é coletar 40 frutas (maçãs) usando uma cesta antes que o tempo acabe.
 
 Controles do jogador
 Seta Esquerda (←): move a cesta para a esquerda.
