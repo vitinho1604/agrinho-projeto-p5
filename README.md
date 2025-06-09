@@ -3,7 +3,8 @@ OBJETIVO
 
 o objetivo é coletar 40 frutas (maçãs) usando uma cesta antes que o tempo acabe.
 
-Controles do jogador
+CONTROLES DO JOGADOR
+
 Seta Esquerda (←): move a cesta para a esquerda.
 Seta Direita (→): move a cesta para a direita.
 
